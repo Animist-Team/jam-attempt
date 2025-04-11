@@ -1,0 +1,76 @@
+# User-specific files
+UserSettings/
+
+# User-specific settings
+.idea/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]istro/
+Build/
+Builds/
+ExportedObj/
+
+# Uncomment if you have Unity Cloud Build
+# .build/
+
+# Uncomment if you're working with a Unity 2018 or earlier project
+# .vs/
+
+# Uncomment if you want to ignore Unity-generated files on non-Windows platforms
+# .macos/
+
+# Temporary files
+[Tt]emp/
+[Tt]empCache/
+
+# Asset files
+Library/
+Obj/
+
+# Ignore Logs
+[Ll]ogs/
+
+# Cache
+MemoryCaptures/
+ 
+# VS Code config folder
+.vscode/
+
+# Uncomment the following line if you're using Rider IDE
+.idea/
+
+# Ignore everything from Unity's Cache server
+UnityCache/
+
+# Thumbnails
+.Thumbs/
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/4b3b9f2d-b970-483c-91c7-cb78d8e5a154.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/b373bf30-2583-48fa-94fa-35c38a91a5b9.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/513230a0-313c-44c8-9522-67872fbb3d8f.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/6552e0db-a424-4162-9eb2-77049edd02b9.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/d2386b01-18bc-4256-9d69-1f1aac290cee.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/01c8c105-07dd-4028-b06f-d933f4dd7bca.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/3462aa3a-cb44-4d14-b434-695dbac0e075.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/4e3a5f15-673a-4274-b029-bd1dc4dc2535.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/23ec337a-7193-4ce3-bbc1-36ae4dc3a8fc.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/e9791d24-897e-422a-9be1-2c0ea9c6df69.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/0ec6cfb6-93d0-471a-902f-5f3e3a6f80dc.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/37ba717a-f7a6-42ec-8009-e4785b549818.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/6ade7a19-159b-4932-baa0-88a6172a7702.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/f79aae97-7188-47a6-bc76-a8cb33bfea2c.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/455abdbe-1646-4fa5-98fc-c90dff553c68.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/3b96ad58-3c6d-4731-8743-755253a0ffa7.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/4ea633ef-8df2-466f-ba5b-0c59a8635ad0.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/5a1d9819-fece-4ad8-952a-7525aab15647.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/bcfb949d-6ede-4388-bc96-8a651c832b1d.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/f41c85e3-7d87-4524-b6cb-c6ef67dba67c.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/4a34cf9c-0ada-44b6-959d-008a9c84f6d4.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/5b2668c2-8f40-4eb6-8b04-072f6ebd6fac.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/78cf0e4a-6d3c-4e84-8401-c7842b280e2c.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/c41147e0-1ca3-46ef-b844-83e2c55311cf.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/df2404c4-6445-4f34-b706-371419f9a8cc.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/0643d160-76fe-44a5-9f78-682d39c2d289.vsidx
+Radiant Hills/.vs/Radiant Hills/FileContentIndex/ffaa2157-1a9c-41d9-b183-811b8135a649.vsidx
